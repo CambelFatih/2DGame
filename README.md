@@ -26,4 +26,4 @@ Enter tuşuna basılana kadar yazılacaktır. Enter tuşuna basıldığında oyu
 sıfırlanarak) tekrar başlayacaktır. Oyun esnasında sağ üst köşede puan bilgisi sürekli
 olarak artarak yazacaktır. Puanlama, üçgenler kareye değmediği her saniye iki puan
 olacak şekilde artacaktır.
- </p>
+ 
