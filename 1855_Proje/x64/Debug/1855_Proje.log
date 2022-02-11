@@ -1,0 +1,20 @@
+﻿  main_1855.cpp
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(93,25): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(105,40): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(148,12): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(165,34): warning C4305: '-=': 'double' iken 'float' olarak kesildi
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(166,35): warning C4305: '-=': 'double' iken 'float' olarak kesildi
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(261,20): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(264,30): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(264,18): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(265,30): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(265,18): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(266,30): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(266,18): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(267,30): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(267,18): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(268,14): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(269,15): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(270,14): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ffurk\OneDrive\Masaüstü\2DGame\1855_Proje\main_1855.cpp(271,15): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  1855_Proje.vcxproj -> C:\Users\ffurk\OneDrive\Masaüstü\2DGame\x64\Debug\1855_Proje.exe
