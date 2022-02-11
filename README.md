@@ -1,11 +1,11 @@
 # 2DGame
-2D C++ GAME
+2D C++ GAME 
  Yukarıdan aşağıya doğru hareket eden üçgenlerin alt kısımdaki dikdörtgen ile çakışmamasını
 sağlayan bir oyun programı yapmanız istenmektedir. Oyunun görüntüsü aşağıdaki resimdeki
 gibi olmalıdır. Oyun bir glut penceresi içine OpenGL komutları ile programlanmalıdır.
 ![FSAF](https://user-images.githubusercontent.com/79880394/153685134-0c47cc0f-52d5-4cd8-ab39-53e72893c1e7.png)
+<h2 >Yapılacaklar;</h2>
 <p align="center">
-<h2 align="center">Yapılacaklar;</h2>
  Yukarıdaki şekilde görüldüğü gibi oluşturulacak olan pencere boyutu 640 x 480 piksel
 olarak ayarlanacaktır. Pencere başlığı öğrencinin öğrenci numarası-adı-soyadı şeklinde
 verilecektir.
