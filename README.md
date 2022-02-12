@@ -18,7 +18,7 @@ birbirinden farklı renkler olmalıdır.
 * Ekranın alt tarafında klavyedeki sağ ve sol ok tuşları ile sağa ve sola hareket edebilen
 bir dikdörtgen yer alacaktır. Dikdörtgenin rengi mavi olacaktır. Dikdörtgenin yüksekliği
 y/16 genişliği x/8 olacaktır.
->* Ekranda hareket eden üçgenler ve dikdörtgen kesik kesik hareket etmeyeceklerdir. Bir
+* Ekranda hareket eden üçgenler ve dikdörtgen kesik kesik hareket etmeyeceklerdir. Bir
 akış halinde hareket edecektir.
 * Üçgenlerden biri dikdörtgen ile çakışır ise oyun sonlanacaktır. Ekranda alınan puan
 Enter tuşuna basılana kadar yazılacaktır. Enter tuşuna basıldığında oyun (puan
