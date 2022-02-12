@@ -5,7 +5,8 @@ sağlayan bir oyun programı yapmanız istenmektedir. Oyunun görüntüsü aşa�
 gibi olmalıdır. Oyun bir glut penceresi içine OpenGL komutları ile programlanmalıdır.
 ![FSAF](https://user-images.githubusercontent.com/79880394/153685134-0c47cc0f-52d5-4cd8-ab39-53e72893c1e7.png)
 <h2 >Yapılacaklar;</h2>
-<div style="text-align: right">  Yukarıdaki şekilde görüldüğü gibi oluşturulacak olan pencere boyutu 640 x 480 piksel
+<p align="center"> 
+  Yukarıdaki şekilde görüldüğü gibi oluşturulacak olan pencere boyutu 640 x 480 piksel
 olarak ayarlanacaktır. Pencere başlığı öğrencinin öğrenci numarası-adı-soyadı şeklinde
 verilecektir.
  Ekranın üst kısmından aşağı doğru zamana bağlı olarak hareket eden en fazla 7 üçgen
@@ -24,6 +25,6 @@ akış halinde hareket edecektir.
 Enter tuşuna basılana kadar yazılacaktır. Enter tuşuna basıldığında oyun (puan
 sıfırlanarak) tekrar başlayacaktır. Oyun esnasında sağ üst köşede puan bilgisi sürekli
 olarak artarak yazacaktır. Puanlama, üçgenler kareye değmediği her saniye iki puan
-olacak şekilde artacaktır.  </div>
+olacak şekilde artacaktır.  </p>
 
 
