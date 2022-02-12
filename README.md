@@ -5,7 +5,7 @@ sağlayan bir oyun programı yapmanız istenmektedir. Oyunun görüntüsü aşa�
 gibi olmalıdır. Oyun bir glut penceresi içine OpenGL komutları ile programlanmalıdır.
 ![FSAF](https://user-images.githubusercontent.com/79880394/153685134-0c47cc0f-52d5-4cd8-ab39-53e72893c1e7.png)
 <h2 >Yapılacaklar;</h2>
-> Yukarıdaki şekilde görüldüğü gibi oluşturulacak olan pencere boyutu 640 x 480 piksel
+* Yukarıdaki şekilde görüldüğü gibi oluşturulacak olan pencere boyutu 640 x 480 piksel
 olarak ayarlanacaktır. Pencere başlığı öğrencinin öğrenci numarası-adı-soyadı şeklinde
 verilecektir.
 * Ekranın üst kısmından aşağı doğru zamana bağlı olarak hareket eden en fazla 7 üçgen
