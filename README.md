@@ -1,4 +1,4 @@
-# 2DGame
+# 2 Boyutlu C++ ile Oyun
 2D C++ GAME 
  Yukarıdan aşağıya doğru hareket eden üçgenlerin alt kısımdaki dikdörtgen ile çakışmamasını
 sağlayan bir oyun programı yapmanız istenmektedir. Oyunun görüntüsü aşağıdaki resimdeki
