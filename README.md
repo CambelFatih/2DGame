@@ -3,6 +3,7 @@
  Make sure that the triangles moving from top to bottom do not overlap with the rectangle at the bottom.
 You are asked to make a game program that provides The image of the game is in the picture below
 should be like. The game must be programmed into a glut window with OpenGL commands.
+
 ![FSAF](https://user-images.githubusercontent.com/79880394/153685134-0c47cc0f-52d5-4cd8-ab39-53e72893c1e7.png)
 ## Rules;
 * 640 x 480 pixels in the viewport that will be rendered in the viewport
@@ -30,6 +31,7 @@ will increase accordingly.
  Yukarıdan aşağıya doğru hareket eden üçgenlerin alt kısımdaki dikdörtgen ile çakışmamasını
 sağlayan bir oyun programı yapmanız istenmektedir. Oyunun görüntüsü aşağıdaki resimdeki
 gibi olmalıdır. Oyun bir glut penceresi içine OpenGL komutları ile programlanmalıdır.
+
 ![FSAF](https://user-images.githubusercontent.com/79880394/153685134-0c47cc0f-52d5-4cd8-ab39-53e72893c1e7.png)
 ## Kurallar;
 * Yukarıdaki şekilde görüldüğü gibi oluşturulacak olan pencere boyutu 640 x 480 piksel
